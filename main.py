@@ -7,4 +7,4 @@ print(x.strftime("%I"))
 print(x.strftime("%p"))
 print(x.strftime("%c"))
 #print(x.strftime("%z"))
-print(x.strftime("%e"))
+
